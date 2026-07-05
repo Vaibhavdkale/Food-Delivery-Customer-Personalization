@@ -45,11 +45,13 @@ This project analyzes how customer personalization influences add-on buying beha
 
 ### Primary Dashboard
 
-(Add your Primary Dashboard image here)
+Primary Data Dashboard Image no 1.png
+
+Primary Data Dashboard Image no 2.png
 
 ### Secondary Dashboard
 
-(Add your Secondary Dashboard image here)
+Secondary Data Dashboard Image
 
 ---
 
