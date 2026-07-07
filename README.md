@@ -81,4 +81,6 @@ Secondary Data Dashboard Image
 
 📧 Email: vaibhavka707@gmail.com
 
+💼 LinkedIn: https://www.linkedin.com/in/vaibhav-kale-mba
+
 🐙 GitHub: https://github.com/Vaibhavdkale
